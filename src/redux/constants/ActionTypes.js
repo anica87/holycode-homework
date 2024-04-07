@@ -1,0 +1,6 @@
+export const ADD_CARD = 'ADD_CARD'
+export const REMOVE_CARD = 'REMOVE_CARD'
+export const RE_ORDER_LIST = 'RE_ORDER_LIST'
+export const MOVE_CARD_TO_LIST = 'MOVE_CARD_TO_LIST'
+export const SET_CARD_CONTENT = 'SET_CARD_CONTENT'
+export const SET_SEARCH = 'SET_SEARCH'
