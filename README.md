@@ -11,9 +11,9 @@ Holycode kanban homework(responsive Kanban board)
  - Number of tickets in the columns
 
  ## Available Scripts
- -npm run dev
- -npm run test
- -npm run format
+ - npm run dev
+ - npm run test
+ - npm run format
 
 # React + Vite
 
