@@ -10,6 +10,11 @@ Holycode kanban homework(responsive Kanban board)
  - Save board state on local storage
  - Number of tickets in the columns
 
+ ## Available Scripts
+ -npm run dev
+ -npm run test
+ -npm run format
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
